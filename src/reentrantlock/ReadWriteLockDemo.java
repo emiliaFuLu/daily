@@ -44,6 +44,9 @@ public class ReadWriteLockDemo {
         new Thread(() -> read()).start();
         new Thread(() -> write()).start();
         new Thread(() -> write()).start();
+
+
+        ////奥术大师多
     }
 
 }
