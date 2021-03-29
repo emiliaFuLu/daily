@@ -7,7 +7,7 @@ import java.lang.reflect.Proxy;
 /**
  * @author: fl
  * @data: 2020-08-18 22:24
- * @description:
+ * @description: 动态代理
  **/
 public class MyDynamicProxy {
     public static void main (String[] args) {
