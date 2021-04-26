@@ -1,5 +1,7 @@
 package thread;
 
+import java.util.concurrent.Semaphore;
+
 /**
  * @author: fl
  * @data: 2020-10-27 14:06
